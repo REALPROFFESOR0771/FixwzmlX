@@ -52,8 +52,7 @@ class MirrorStatus:
     STATUS_PAUSED      = "Pause"
     STATUS_ARCHIVING   = "Archive"
     STATUS_EXTRACTING  = "Extract"
-    STATUS_SPLITTING   = "Split"
-    STATUS_METADATA    = "𝙰𝚍𝚍𝚒𝚗𝚐 𝙼𝚎𝚝𝚊𝚍𝚊𝚝𝚊 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝙱𝚢 @Max_Leech_Zone_Update"
+    STATUS_SPLITTING   = "Splitting"
     STATUS_CHECKING    = "CheckUp"
     STATUS_SEEDING     = "Seed"
 
