@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/env python3
 from aiofiles.os import remove as aioremove, path as aiopath, listdir, rmdir, makedirs
 from aioshutil import rmtree as aiormtree, move
